@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="testTimesheet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/testTimesheet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/testTimesheet.jar!/" />
+    </SOURCES>
+  </library>
+</component>

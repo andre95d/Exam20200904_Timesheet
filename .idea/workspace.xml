@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db4c3b99-22ac-472f-a84e-d8f7547e5946" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/testTimesheet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam20200904_Timesheet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Requirements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Requisiti.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Student.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/TestApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timesheet/Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timesheet/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timesheet/Profile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timesheet/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timesheet/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timesheet/Timesheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timesheet/TimesheetException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timesheet/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testTimesheet.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/andre95d/Exam20200904_Timesheet" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h62QmHIUonLTku4tdCkWSOurzi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/testTimesheet.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\andre\Documents\Exam20200904_Timesheet" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="timesheet" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="timesheet" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestR4 (1)">
+    <configuration name="TestR4 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exam20200904_Timesheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.polito.po.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.polito.po.test" />
+      <option name="MAIN_CLASS_NAME" value="it.polito.po.test.TestR4" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestR4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exam20200904_Timesheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.polito.po.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.polito.po.test" />
+      <option name="MAIN_CLASS_NAME" value="it.polito.po.test.TestR4" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestR4.testReportInvalidHoursPerProject (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exam20200904_Timesheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.polito.po.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.polito.po.test" />
+      <option name="MAIN_CLASS_NAME" value="it.polito.po.test.TestR4" />
+      <option name="METHOD_NAME" value="testReportInvalidHoursPerProject" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestR4.testReportInvalidHoursPerProject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exam20200904_Timesheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.polito.po.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.polito.po.test" />
+      <option name="MAIN_CLASS_NAME" value="it.polito.po.test.TestR4" />
+      <option name="METHOD_NAME" value="testReportInvalidHoursPerProject" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestR4.testReportInvalidProject (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exam20200904_Timesheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.polito.po.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.polito.po.test" />
+      <option name="MAIN_CLASS_NAME" value="it.polito.po.test.TestR4" />
+      <option name="METHOD_NAME" value="testReportInvalidProject" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="JUnit" factoryName="JUnit">
+      <module name="Exam20200904_Timesheet" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="it.polito.po.test.AllTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JarApplication">
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestR4 (1)" />
+      <item itemvalue="JUnit.TestR4" />
+      <item itemvalue="JUnit.TestR4.testReportInvalidHoursPerProject (1)" />
+      <item itemvalue="JUnit.TestR4.testReportInvalidHoursPerProject" />
+      <item itemvalue="JUnit.TestR4.testReportInvalidProject (1)" />
+      <item itemvalue="JUnit.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestR4 (1)" />
+        <item itemvalue="JUnit.TestR4.testReportInvalidHoursPerProject (1)" />
+        <item itemvalue="JUnit.TestR4.testReportInvalidProject (1)" />
+        <item itemvalue="JUnit.TestR4" />
+        <item itemvalue="JUnit.TestR4.testReportInvalidHoursPerProject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\andre\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db4c3b99-22ac-472f-a84e-d8f7547e5946" name="Default Changelist" comment="" />
+      <created>1599317216808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599317216808</updated>
+    </task>
+    <task id="LOCAL-00001">
+      <created>1599854448897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599854448897</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="7" key="#Project_Structure" timestamp="1599843923317">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="7" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1599843923317" />
+    <state x="223" y="87" width="1089" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599823646555">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" width="1089" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1599823646555" />
+    <state x="93" y="93" width="1350" height="678" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1599844885937">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.864@0.0.1536.864" timestamp="1599844885937" />
+    <state x="549" y="149" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1599823140593">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="149" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.864@0.0.1536.864" timestamp="1599823140593" />
+    <state x="574" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1599841894720">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1599841894720" />
+    <state x="498" y="234" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599823633544">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="498" y="234" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1599823633544" />
+    <state x="537" y="274" width="460" height="495" key="#com.intellij.tools.ToolEditorDialog" timestamp="1599823143615">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="537" y="274" width="460" height="495" key="#com.intellij.tools.ToolEditorDialog/0.0.1536.864@0.0.1536.864" timestamp="1599823143615" />
+    <state x="314" y="187" key="#org.jetbrains.debugger.memory.view.InstancesWindow" timestamp="1599827691243">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="314" y="187" key="#org.jetbrains.debugger.memory.view.InstancesWindow/0.0.1536.864@0.0.1536.864" timestamp="1599827691243" />
+    <state x="650" y="185" key="#xdebugger.XInspectDialog" timestamp="1599827695785">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="650" y="185" key="#xdebugger.XInspectDialog/0.0.1536.864@0.0.1536.864" timestamp="1599827695785" />
+    <state x="230" y="290" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1599611294988">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="230" y="290" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.864@0.0.1536.864" timestamp="1599611294988" />
+    <state x="317" y="19" key="CommitChangelistDialog2" timestamp="1599854446359">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="317" y="19" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1599854446359" />
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog" timestamp="1599907567334">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1599907567334" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1599823543246">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1599823543246" />
+    <state x="292" y="305" key="Github.ShareDialog" timestamp="1600188517652">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="292" y="305" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1600188517652" />
+    <state x="473" y="137" key="Github.UntrackedFilesDialog" timestamp="1600187753942">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="473" y="137" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1600187753941" />
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom" timestamp="1599906822868">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1599906822868" />
+    <state width="1493" height="277" key="GridCell.Tab.0.center" timestamp="1599906822868">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1599906822868" />
+    <state width="1493" height="277" key="GridCell.Tab.0.left" timestamp="1599906822868">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1599906822868" />
+    <state width="1493" height="277" key="GridCell.Tab.0.right" timestamp="1599906822868">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1599906822868" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1599906822869">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1599906822869" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1599906822869">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1599906822869" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1599906822869">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1599906822869" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1599906822869">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1599906822869" />
+    <state x="432" y="135" key="RollbackChangesDialog" timestamp="1599317945286">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="432" y="135" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1599317945286" />
+    <state x="249" y="7" key="SettingsEditor" timestamp="1600187942369">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1600187942369" />
+    <state x="164" y="166" width="966" height="594" key="VCS.ChangesBrowserDialog" timestamp="1599317743865">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="164" y="166" width="966" height="594" key="VCS.ChangesBrowserDialog/0.0.1536.864@0.0.1536.864" timestamp="1599317743865" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1600188546891">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1600188546891" />
+    <state x="498" y="324" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1599824456037">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="498" y="324" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.864@0.0.1536.864" timestamp="1599824456037" />
+    <state x="586" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599317748978">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="586" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1599317748978" />
+    <state x="663" y="179" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1599823144774">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="663" y="179" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.1536.864@0.0.1536.864" timestamp="1599823144774" />
+    <state width="407" height="429" key="javadoc.popup.new" timestamp="1599850948462">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="407" height="429" key="javadoc.popup.new/0.0.1536.864@0.0.1536.864" timestamp="1599850948462" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/testTimesheet.jar!/it/polito/po/test/TestR1.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/testTimesheet.jar!/it/polito/po/test/TestR1.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timesheet/Timesheet.java</url>
+          <line>135</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timesheet/Timesheet.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timesheet/Timesheet.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timesheet/Timesheet.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timesheet/Timesheet.java</url>
+          <line>172</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timesheet/Timesheet.java</url>
+          <line>169</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timesheet/Timesheet.java</url>
+          <line>170</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/testTimesheet.jar!/it/polito/po/test/TestR4.class</url>
+          <line>101</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/testTimesheet.jar!/it/polito/po/test/TestR4.class</url>
+          <line>102</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timesheet/Timesheet.java</url>
+          <line>173</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timesheet/Timesheet.java</url>
+          <line>174</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="w.isPresent()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
