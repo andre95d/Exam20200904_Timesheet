@@ -17,31 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db4c3b99-22ac-472f-a84e-d8f7547e5946" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/testTimesheet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam20200904_Timesheet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Requirements.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Requisiti.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example/TestApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timesheet/Activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timesheet/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timesheet/Profile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timesheet/Project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timesheet/Report.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timesheet/Timesheet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timesheet/TimesheetException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timesheet/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testTimesheet.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,12 +169,12 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="JUnit.test" />
       <item itemvalue="JUnit.TestR4 (1)" />
       <item itemvalue="JUnit.TestR4" />
       <item itemvalue="JUnit.TestR4.testReportInvalidHoursPerProject (1)" />
       <item itemvalue="JUnit.TestR4.testReportInvalidHoursPerProject" />
       <item itemvalue="JUnit.TestR4.testReportInvalidProject (1)" />
-      <item itemvalue="JUnit.test" />
     </list>
     <recent_temporary>
       <list>
@@ -230,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599854448897</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="weweweweweeeeeeee">
+      <created>1600188699251</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600188699251</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,7 +240,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="weweweweweeeeeeee" />
+    <option name="LAST_COMMIT_MESSAGE" value="weweweweweeeeeeee" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="7" key="#Project_Structure" timestamp="1599843923317">
@@ -300,14 +284,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="230" y="290" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.864@0.0.1536.864" timestamp="1599611294988" />
-    <state x="317" y="19" key="CommitChangelistDialog2" timestamp="1599854446359">
+    <state x="317" y="19" key="CommitChangelistDialog2" timestamp="1600188697629">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="317" y="19" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1599854446359" />
-    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog" timestamp="1599907567334">
+    <state x="317" y="19" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1600188697629" />
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog" timestamp="1600188883583">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1599907567334" />
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1600188883583" />
     <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1599823543246">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -364,10 +348,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="164" y="166" width="966" height="594" key="VCS.ChangesBrowserDialog/0.0.1536.864@0.0.1536.864" timestamp="1599317743865" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1600188546891">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1600188991765">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1600188546891" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1600188991765" />
     <state x="498" y="324" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1599824456037">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -380,6 +364,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="663" y="179" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.1536.864@0.0.1536.864" timestamp="1599823144774" />
+    <state x="523" y="334" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600189237367">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="523" y="334" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.864@0.0.1536.864" timestamp="1600189237367" />
     <state width="407" height="429" key="javadoc.popup.new" timestamp="1599850948462">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
